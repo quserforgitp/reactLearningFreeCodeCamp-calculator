@@ -8,8 +8,10 @@ function App() {
         <img 
           src={FreeCodeCampLogo}
           className="freecodecamp-logo"
-          alt="logo de FreeCodeCamp"
-        />
+          alt="logo de FreeCodeCamp" />
+      </div>
+      <div className="contenedor-calculadora">
+        
       </div>
     </div>
   );

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactLearningFreeCodeCamp-calculator/static/css/main.9e23e791.css",
+    "main.js": "/reactLearningFreeCodeCamp-calculator/static/js/main.bc400166.js",
+    "static/media/FreeCodeCamp_logo.png": "/reactLearningFreeCodeCamp-calculator/static/media/FreeCodeCamp_logo.5486935b905c7949600c.png",
+    "index.html": "/reactLearningFreeCodeCamp-calculator/index.html",
+    "main.9e23e791.css.map": "/reactLearningFreeCodeCamp-calculator/static/css/main.9e23e791.css.map",
+    "main.bc400166.js.map": "/reactLearningFreeCodeCamp-calculator/static/js/main.bc400166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e23e791.css",
+    "static/js/main.bc400166.js"
+  ]
+}

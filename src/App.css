@@ -31,3 +31,10 @@
     border-radius: 20px;
     border: 5px solid #fff;
 }
+
+.fila {
+    margin: 4px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

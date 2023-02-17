@@ -16,7 +16,11 @@ function App() {
   };
 
   const calcularResultado = () => {
-    SetInput(evaluate(input));
+    if (input) {
+      SetInput(evaluate(input)); 
+    } else {
+      alert("Ingrese una expresion aritmetica valida");
+    }
   };
 
   return (
